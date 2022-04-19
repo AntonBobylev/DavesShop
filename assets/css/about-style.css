@@ -1,0 +1,21 @@
+/* Intro */
+.intro__inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+}
+
+.intro__suptitle {
+    font-family: 'Alfa Slab One', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-right: 100px;
+    line-height: 0.85;
+    animation: levitating 5s infinite;
+}
+
+.intro__title {
+    font-size: 30px;
+    animation: initial;
+}
